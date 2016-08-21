@@ -14,3 +14,8 @@ Only uses the two basic rules of solving minesweeper
 Has a few more functions, such as clicking the most probable square when no other move is found, check finish, save the end game screen after each match.
 
 Uses pyautogui to control the mouse, numpy to model the field, cv2 to make the template matching, plus some standart python libraries.
+
+
+
+Roberto Philippi
+robertophi@gmail.com
