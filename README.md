@@ -7,6 +7,7 @@ Only uses the two basic rules of solving minesweeper
 
   => if number of flags = square's numer : 
       all others tiles are not bombs
+      
   => if the amount of empty squares + flags = square's number : 
       all other tiles are bombs
 
